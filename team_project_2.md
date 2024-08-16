@@ -87,6 +87,7 @@ We documented our machine learning pipeline and model architecture comprehensive
 * Each team member must contribute to the repository’s log 
 * Each team member must create a video about their learnings and experience
 Shahrzad: https://youtu.be/i7MbVCJOhn4
+Olha: https://drive.google.com/file/d/1zgue1hpz3XIEoAsNkSkgXeDrzwIttqiA/view?usp=sharing
 
 * Each project's README should describe the project, why the team approached the project the way they did, and should demonstrate thoughtful consideration of the guiding questions above. This is the best way to demonstrate your learning to prospective employers who may view this project on your profile. 
 
