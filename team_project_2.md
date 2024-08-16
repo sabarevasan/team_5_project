@@ -88,10 +88,11 @@ By the end of the team project, participants will be able to either:
 - Each team member must create, review, and merge a pull request
 - Each team member must contribute to the repository’s log
 - Each team member must create a video about their learnings and experience
-  Shahrzad: https://youtu.be/i7MbVCJOhn4
-  Olha: https://drive.google.com/file/d/1zgue1hpz3XIEoAsNkSkgXeDrzwIttqiA/view?usp=sharing
-  Stuart: https://drive.google.com/file/d/1dpWN4_CuQXEK80zJmirmtmuC6zi26Ibv/view?usp=drive_link
-  Divya: https://drive.google.com/file/d/1nkHU-0IwI2YiBrIYPakx0O6ScnHsw1Ob/view?usp=share_link
+
+  - Shahrzad: https://youtu.be/i7MbVCJOhn4
+  - Olha: https://drive.google.com/file/d/1zgue1hpz3XIEoAsNkSkgXeDrzwIttqiA/view?usp=sharing
+  - Stuart: https://drive.google.com/file/d/1dpWN4_CuQXEK80zJmirmtmuC6zi26Ibv/view?usp=drive_link
+  - Divya: https://drive.google.com/file/d/1nkHU-0IwI2YiBrIYPakx0O6ScnHsw1Ob/view?usp=share_link
 
 - Each project's README should describe the project, why the team approached the project the way they did, and should demonstrate thoughtful consideration of the guiding questions above. This is the best way to demonstrate your learning to prospective employers who may view this project on your profile.
 
